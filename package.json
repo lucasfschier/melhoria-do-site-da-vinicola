@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "abc": "^0.6.1",
+    "gh-pages": "^6.1.1"
+  }
+}
